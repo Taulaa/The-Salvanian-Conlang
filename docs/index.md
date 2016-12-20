@@ -2,18 +2,21 @@
 
 ## **Cases**
 
-Salvanian has six regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are as follows:
+Salvanian has nine regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are as follows:
 
 
 
 **Case** | **Ending** | **Name in Salvanian**
 -----|-------|---------
-Nominative | *Unchanged* | *a'peci*
-Accusative | *i/ti* | *a'gyitas*
-Dative | *og/gyo* | *a'dagyo*
-Prepositional | *e/te* | *a'hete*
-Allative | *ak/ka* | *a'ijkozak*
-Ablative | *af/fa* | *a'ijkozaf*
+Nominative | *Unchanged* | *a'pecico*
+Accusative | *i/ti* | *a'gyitasoc*
+Dative | *og/gyo* | *a'dagyoco*
+Instrumental | *ot/to* | *a'haitoco*
+Genitive | *oc/co* | *a'gyaco*
+Vocative | *en/ne* | *a'etisoc*
+Prepositional | *e/te* | *a'heteco*
+Allative | *ak/ka* | *a'ijkozakoc*
+Ablative | *af/fa* | *a'ijkozafoc*
 
 As you can see, there are two forms of each case. This is because (as I have mentioned before) different forms are used based solely on whether or not a noun ends with a vowel or a consonant.
 
