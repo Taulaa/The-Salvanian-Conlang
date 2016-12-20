@@ -1,10 +1,12 @@
-## Salvanian
+## **Salvanian**
 
-**Case** | **Ending**
------|-------
-Nominative | *Unchanged*
-Accusative | *i/ti*
-Dative | *og/gyo*
-Prepositional | *e/te*
-Allative | *ak/ka*
-Ablative | *af/fa*
+# **Cases**
+
+**Case** | **Name is Salvanian** | **Ending**
+-----|-------|---------
+Nominative | *Unchanged* | *a'peci*
+Accusative | *i/ti* | *a'gyitas*
+Dative | *og/gyo* | *a'dagyo*
+Prepositional | *e/te* | *a'hete*
+Allative | *ak/ka* | *a'ijkozak*
+Ablative | *af/fa* | *a'ijkozaf*
