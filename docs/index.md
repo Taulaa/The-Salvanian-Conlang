@@ -1,10 +1,10 @@
-# Salvanian
+## Salvanian
 
-Case | Ending
+#**Case** | **Ending**
 -----|-------
-Nominative | Unchanged
-Accusative | i/ti
-Dative | og/gyo
-Prepositional | e/te
-Allative | ak/ka
-Ablative | af/fa
+Nominative | *Unchanged*
+Accusative | *i/ti*
+Dative | *og/gyo*
+Prepositional | *e/te*
+Allative | *ak/ka*
+Ablative | *af/fa*
