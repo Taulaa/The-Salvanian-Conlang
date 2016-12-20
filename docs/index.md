@@ -2,7 +2,7 @@
 
 ## **Cases**
 
-Salvanian has six regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are ~~hard~~ easy to learn. They are as follows:
+Salvanian has six regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are as follows:
 
 
 
