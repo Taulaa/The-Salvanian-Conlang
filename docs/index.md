@@ -1,6 +1,6 @@
 ## Salvanian
 
-# **Case** | **Ending**
+**Case** | **Ending**
 -----|-------
 Nominative | *Unchanged*
 Accusative | *i/ti*
