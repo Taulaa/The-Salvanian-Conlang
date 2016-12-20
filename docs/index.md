@@ -15,7 +15,7 @@ Prepositional | *e/te* | *a'hete*
 Allative | *ak/ka* | *a'ijkozak*
 Ablative | *af/fa* | *a'ijkozaf*
 
-As you can see, there are two forms of each case. This is the case because (as I have mentioned before) different forms are used based solely on whether or not a noun ends with a vowel or a consonant.
+As you can see, there are two forms of each case. This is because (as I have mentioned before) different forms are used based solely on whether or not a noun ends with a vowel or a consonant.
 
 1. If a noun ends with a consonant, use the form that starts with a vowel.
     
