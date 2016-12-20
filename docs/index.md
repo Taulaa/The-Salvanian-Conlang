@@ -1,6 +1,6 @@
-## **Salvanian**
+# **Salvanian**
 
-# **Cases**
+## **Cases**
 
 **Case** | **Name is Salvanian** | **Ending**
 -----|-------|---------
