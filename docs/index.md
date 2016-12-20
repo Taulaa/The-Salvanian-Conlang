@@ -6,7 +6,7 @@ Salvanian has six regular cases that not only have regular endings (with only tw
 
 
 
-**Case** | **Name is Salvanian** | **Ending**
+**Case** | **Ending** | **Name in Salvanian**
 -----|-------|---------
 Nominative | *Unchanged* | *a'peci*
 Accusative | *i/ti* | *a'gyitas*
