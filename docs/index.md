@@ -8,7 +8,7 @@ Salvanian has nine regular cases that not only have regular endings (with only t
 
 **Case** | **Ending** | **Name in Salvanian**
 -----|-------|---------
-Nominative | *Unchanged* | *a'pecico*
+Nominative | *an/n* | *a'pecico*
 Accusative | *i/ti* | *a'gyitasoc*
 Dative | *og/gyo* | *a'dagyoco*
 Instrumental | *ot/to* | *a'haitoco*
