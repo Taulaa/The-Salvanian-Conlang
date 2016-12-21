@@ -13,6 +13,7 @@ Accusative | *i/ti* | *a'gyitasoc*
 Dative | *og/gyo* | *a'dagyoco*
 Instrumental | *ot/to* | *a'haitoco*
 Genitive | *oc/co* | *a'gyaco*
+Essive | *ec/c* | *a'gyico*
 Abessive | *a/da* | *a'daco*
 Comitative | *u/su* | *a'haico*
 Vocative | *en/ne* | *a'etisoc*
@@ -35,7 +36,8 @@ Here is a table for vocabulary with witch I will explain the cases:
 *To (not) speak* | *Akje(da)*
 *To (not) move/go* | *Igyos(a)*
 *To (not) place ...* | *Feltha(da)*
-*To (not) be | O(da)*
+*To (not) be* | *O(da)*
+*To (not) drink* | *mhanes(a)*
 
 ### Pronouns:
 
@@ -53,3 +55,29 @@ Here is a table for vocabulary with witch I will explain the cases:
 *Etide* | *They(f)*
 *Se* | *That one (added to a noun to make it specific to mean "one previously mentioned")*
 
+### Nouns:
+
+**Noun in English** | **Noun in Salvanian**
+--------------------|----------------------
+*Kindness* | *Hoi*
+*Goodness* | *Kia*
+*Day* | *Ciyet*
+*Fragment* | *Yoti*
+*Tea* | *Api*
+*Language* | *Viu*
+*The Salvanian Language* | *A viu saloc*
+
+
+### Examples:
+
+*I speak salvanian.* = *Kin akje a viuti saloc.*
+
+Note: Genitive is used to describe objects belonging to a category of the word it affects. EG: Viu saloc = language belonging to a category of Salvanian things.
+
+*Beden o hoico etec.* = *You are kind like him*
+
+*Kide mhanesa apiti.* - Work this out as a challenge.
+
+*Etiden feltha seti hete* - Work this out as a challenge. 
+
+*A ciyetan oda kiaco...* - Work this out as a challenge.
