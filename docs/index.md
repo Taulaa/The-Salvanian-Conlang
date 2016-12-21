@@ -37,7 +37,7 @@ Here is a table for vocabulary with witch I will explain the cases:
 
 ### Verbs:
 
-**Verb in Eglish** | **Verb in Salvanian**
+**Verb in English** | **Verb in Salvanian**
 -------------------|----------------------
 *To (not) speak* | *Akje(da)*
 *To (not) move/go* | *Igyos(a)*
