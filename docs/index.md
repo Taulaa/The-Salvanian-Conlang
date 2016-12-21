@@ -80,6 +80,7 @@ A/Ag = Definite article. No other articles exist in Salvanian.
 The Nominative case makes the word it changes the subject of the sentence. This along with the **accusative** case means sentence structure is fluid. The main rule is that words that describe an object or action come after it in a phrase.
 
 If a word ends in a vowel, "*n*" is added.
+
 If a word ends in a consonant, "*an*" is added.
 
 Examples will be given after the explanation of the Accusative case in Salvanian.
@@ -89,25 +90,31 @@ Examples will be given after the explanation of the Accusative case in Salvanian
 The Accusative case makes the word it changes the direct object of the sentence. This means it is the noun that the action is done to. EG: "The man ate the cake." The cake is the direct object and would be marked.
 
 If a word ends in a vowel, "*ti*" is added.
+
 If a word ends in a consonant, "*i*" is added.
 
 #### ***Nominative and Accusative examples:***
 
-*Kin mhanes apit. = I drink tea.
-Apit kin mhanes. = I drink tea.
-Mhanes apit kin. = I drink tea.
-...*
+*Kin mhanes apit. = I drink tea.*
+
+*Apit kin mhanes. = I drink tea.*
+
+*Mhanes apit kin. = I drink tea.*
+
+etc...
 
 ### The Dative case:
 
 The Dative case in Salvanian shows recipients of objects.
 
 If a word ends in a vowel, "*gyo*" is added.
+
 If a word ends in a consonant, "*og*" is added.
 
 #### ***Dative examples:***
 
 *Be feltha a apit kigyo.* = *You give the tea to me.*
+
 *Eti feltha sedeti etegyo.* *She gives them to him.*
 
 ### The Instrumental case:
@@ -115,8 +122,10 @@ If a word ends in a consonant, "*og*" is added.
 The Instrumental case makes the word is changes the noun into what is being used to complete an action.
 
 *Kin igyos gyadeto fanhoka = I drive to school by car.*
-*Gyade = car/automobile.
-Fanho = school (its in the allative case, don't worry.)*
+
+*Gyade = car/automobile.*
+
+*Fanho = school (its in the allative case, don't worry.)*
 
 If a word ends in a vowel, "*to*" is added.
 If a word ends in a consonant, "*ot*" is added.
@@ -138,4 +147,5 @@ If a word ends in a consonant, "*oc*" is added.
 #### ***Genitive examples:***
 
 *Sen oda kico. = It isn't mine*
+
 *Ag apin o kiaco. = The tea is good.*
