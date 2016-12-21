@@ -70,14 +70,25 @@ Here is a table for vocabulary with witch I will explain the cases:
 
 ### Examples:
 
-*I speak salvanian.* = *Kin akje a viuti saloc.*
+*I speak salvanian.* - *Kin akje a viuti saloc.*
 
-Note: Genitive is used to describe objects belonging to a category of the word it affects. EG: Viu saloc = language belonging to a category of Salvanian things.
+*I put it with the tea for you.* - *Kin feltha begyo seti apisu.*
 
-*Beden o hoico etec.* = *You are kind like him*
+Note: Genitive is used to describe objects belonging to a category of the word it affects. EG: Viu saloc = language belonging to a category of Salvanian things. Also, word order is flexible as long as words that describe something come after it.
+
+*Beden o hoico etec.* - *You are kind like him*
 
 *Kide mhanesa apiti.* - Work this out as a challenge.
 
 *Etiden feltha seti hete* - Work this out as a challenge. 
 
 *A ciyetan oda kiaco...* - Work this out as a challenge.
+
+*Sen oda beco - o kico.* - The subject can be omitted if it's obvious.
+
+### More Challenge
+
+*My tea is good!* - Work this out as a challenge.
+*I don't speak your language, I speak Salvanian.* - Work this out as a challenge.
+*Fragment of a language* - Work this out as a challenge.
+*You drink tea like her* - Work this out as a challenge.
