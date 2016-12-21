@@ -128,11 +128,13 @@ The Instrumental case makes the word is changes the noun into what is being used
 *Fanho = school (its in the allative case, don't worry.)*
 
 If a word ends in a vowel, "*to*" is added.
+
 If a word ends in a consonant, "*ot*" is added.
 
 #### ***Instrumental examples:***
 
 *Ko = question prefix added to the beginning of sentences making them into yes or no questions.*
+
 *Vi/iv = future suffix for verbs.*
 
 *Ko ben igyosiv gyadeto? = Will you go by car?*
@@ -142,6 +144,7 @@ If a word ends in a consonant, "*ot*" is added.
 The Genitive case in Salvanian describe something as *belonging to x*. It can also turn nouns into adjectives like the colour yellow to yellow.
 
 If a word ends in a vowel, "*co*" is added.
+
 If a word ends in a consonant, "*oc*" is added.
 
 #### ***Genitive examples:***
