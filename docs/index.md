@@ -75,6 +75,7 @@ Here is a table for vocabulary with witch I will explain the cases:
 
 A/Ag = Definite article. No other articles exist in Salvanian.
 
+
 ### The Nominative case:
 
 The Nominative case makes the word it changes the subject of the sentence. This along with the **accusative** case means sentence structure is fluid. The main rule is that words that describe an object or action come after it in a phrase.
@@ -84,6 +85,7 @@ If a word ends in a vowel, "*n*" is added.
 If a word ends in a consonant, "*an*" is added.
 
 Examples will be given after the explanation of the Accusative case in Salvanian.
+
 
 ### The Accusative case:
 
@@ -103,6 +105,7 @@ If a word ends in a consonant, "*i*" is added.
 
 etc...
 
+
 ### The Dative case:
 
 The Dative case in Salvanian shows recipients of objects.
@@ -116,6 +119,7 @@ If a word ends in a consonant, "*og*" is added.
 *Be feltha a apit kigyo.* = *You give the tea to me.*
 
 *Eti feltha sedeti etegyo.* *She gives them to him.*
+
 
 ### The Instrumental case:
 
@@ -139,6 +143,7 @@ If a word ends in a consonant, "*ot*" is added.
 
 *Ko ben igyosiv gyadeto? = Will you go by car?*
 
+
 ### The Genitive case:
 
 The Genitive case in Salvanian describe something as *belonging to x*. It can also turn nouns into adjectives like the colour yellow to yellow.
@@ -152,3 +157,5 @@ If a word ends in a consonant, "*oc*" is added.
 *Sen oda kico. = It isn't mine*
 
 *Ag apin o kiaco. = The tea is good.*
+
+
