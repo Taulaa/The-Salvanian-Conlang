@@ -23,7 +23,7 @@ Illative | *at/ta* | *a pelcico*
 Inessive | *o/jo* | *a cico*
 Elative | *et/te* | *a dancico*
 Translative | *el/de* | *a peloco*
-Exessive | *ul/du* *a danoco*
+Exessive | *ul/du* | *a danoco*
 Allative | *ak/ka* | *ag ikjozakoc*
 Ablative | *af/fa* | *ag ikjozafoc*
 
