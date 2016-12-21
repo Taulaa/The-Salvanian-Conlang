@@ -2,7 +2,7 @@
 
 ## **Cases**
 
-Salvanian has eleven regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are as follows:
+Salvanian has seventeen regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are as follows:
 
 
 
@@ -17,7 +17,12 @@ Essive | *ec/c* | *a'gyico*
 Abessive | *a/da* | *a'daco*
 Comitative | *u/su* | *a'haico*
 Vocative | *en/ne* | *a'etisoc*
-Locative | *e/te* | *a'heteco*
+Adessive | *e/ce* | *a'heteco*
+Illative | *at/ta* | *a'pelcico*
+Inessive | *o/jo* | *a'cico*
+Elative | *et/te* | *a'dancico*
+Translative | *el/de* | *a'peloco*
+Exessive | *ul/du* *a'danoco*
 Allative | *ak/ka* | *a'ikjozakoc*
 Ablative | *af/fa* | *a'ikjozafoc*
 
@@ -41,7 +46,7 @@ Here is a table for vocabulary with witch I will explain the cases:
 
 ### Pronouns:
 
-**Pronoun in English** | **Pronoun in Salvanian**
+**Pronoun in Salvanian** | **Pronoun in English**
 -----------------------|-------------------------
 *Ki* | *I*
 *Kide* | *We*
@@ -61,37 +66,28 @@ Here is a table for vocabulary with witch I will explain the cases:
 --------------------|----------------------
 *Kindness* | *Hoi*
 *Goodness* | *Kia*
-*Day* | *Ciyet*
+*Day* | *Cyec*
 *Fragment* | *Yoti*
 *Tea* | *Api*
 *Language* | *Viu*
 *The Salvanian Language* | *A viu saloc*
 
 
-### Examples:
+### The Nominative case:
 
-*I speak salvanian.* - *Kin akje a viuti saloc.*
+The Nominative case makes the word it changes the subject of the sentence. This along with the **accusative** case means sentence structure is fluid. The main rule is that words that describe an object or action come after it in a phrase.
 
-*I put it with the tea for you.* - *Kin feltha begyo seti apisu.*
+If a word ends in a vowel, "*n*" is added.
+If a word ends in a consonant, "*an*" is added.
 
-Note: Genitive is used to describe objects belonging to a category of the word it affects. EG: Viu saloc = language belonging to a category of Salvanian things. Also, word order is flexible as long as words that describe something come after it.
+Examples will be given after the explanation of the Accusative case in Salvanian.
 
-*Beden o hoico etec.* - *You are kind like him*
+### The Accusative case:
 
-*Kide mhanesa apiti.* - Work this out as a challenge.
+The Accusative case makes the word it changes the direct object or the sentence. This means it is the noun that the action is done to. EG: "The man ate the cake." The cake is the direct object and would be marked.
 
-*Etiden feltha seti hete* - Work this out as a challenge. 
+If a word ends in a vowel, "*ti*" is added.
+If a word ends in a consonant, "*i*" is added.
 
-*A ciyetan oda kiaco...* - Work this out as a challenge.
+#### ***Accusative examples:***
 
-*Sen oda beco - o kico.* - The subject can be omitted if it's obvious.
-
-### More Challenge
-
-*My tea is good!* - Work this out as a challenge.
-
-*I don't speak your language, I speak Salvanian.* - Work this out as a challenge.
-
-*Fragment of a language* - Work this out as a challenge.
-
-*You drink tea like her* - Work this out as a challenge.
