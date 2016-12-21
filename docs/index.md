@@ -123,7 +123,7 @@ If a word ends in a consonant, "*og*" is added.
 
 ### The Instrumental case:
 
-The Instrumental case makes the word is changes the noun into what is being used to complete an action.
+The Instrumental case makes the word is changes the noun into what is being used to perform an action.
 
 *Kin igyos gyadeto fanhoka = I drive to school by car.*
 
