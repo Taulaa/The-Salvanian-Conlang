@@ -37,7 +37,7 @@ Here is a table for vocabulary with witch I will explain the cases:
 *To (not) move/go* | *Igyos(a)*
 *To (not) place ...* | *Feltha(da)*
 *To (not) be* | *O(da)*
-*To (not) drink* | *mhanes(a)*
+*To (not) drink* | *Mhanes(a)*
 
 ### Pronouns:
 
