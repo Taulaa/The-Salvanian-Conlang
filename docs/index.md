@@ -11,7 +11,7 @@ Salvanian has eighteen regular cases that not only have regular endings (with on
 Nominative | *an/n* | *a pecico*
 Accusative | *i/ti* | *a gyitasoc*
 Dative | *og/gyo* | *a dagyoco*
-Instrumental | *ot/to* | *ag haitoco*
+Instructive | *ot/to* | *ag haitoco*
 Genitive | *oc/co* | *a gyaco*
 Essive | *ec/c* | *a gyico*
 Abessive | *a/da* | *a daco*
@@ -121,9 +121,9 @@ If a word ends in a consonant, "*og*" is added.
 *Eti feltha sedeti etegyo.* *She gives them to him.*
 
 
-### The Instrumental case:
+### The Instructive case:
 
-The Instrumental case makes the word is changes the noun into what is being used to perform an action.
+The Instructive case makes the word is changes the noun into what is being used to perform an action.
 
 *Kin igyos gyadeto fanhoka = I drive to school by car.*
 
@@ -135,7 +135,7 @@ If a word ends in a vowel, "*to*" is added.
 
 If a word ends in a consonant, "*ot*" is added.
 
-#### ***Instrumental examples:***
+#### ***Instructive examples:***
 
 *Ko = question prefix added to the beginning of sentences making them into yes or no questions.*
 
