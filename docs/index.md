@@ -33,7 +33,7 @@ As you can see, there are two forms of each case. This is because (as I have men
     
 2. If a noun ends with a vowel, use the form that starts with a consonant.
 
-Here is a table for vocabulary with witch I will explain the cases:
+Here is a table for vocabulary with which I will explain the cases:
 
 ### Verbs:
 
