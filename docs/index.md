@@ -120,16 +120,16 @@ If a word ends in a consonant, "*og*" is added.
 
 #### ***Dative examples:***
 
-*Be feltha a apit kigyo.* = *You give the tea to me.*
+*Ben feltha kigyo a apit.* = *You give the tea to me.*
 
-*Eti feltha sedeti etegyo.* *She gives them to him.*
+*Etin feltha etegyo sedeti.* *She gives them to him.*
 
 
 ### The Instructive case:
 
 The Instructive case makes the word is changes the noun into what is being used to perform an action.
 
-*Kin igyos gyadeto fanhoka = I drive to school by car.*
+*Kin igyos fanhoka gyadeto = I drive to school by car.*
 
 *Gyade = car/automobile.*
 
@@ -158,8 +158,8 @@ If a word ends in a consonant, "*oc*" is added.
 
 #### ***Genitive examples:***
 
-*Sen oda kico. = It isn't mine*
+*Sen dakico. = It isn't mine*
 
-*Ag apin o kiaco. = The tea is good.*
+*Ag apin kiaco. = The tea is good.*
 
 
