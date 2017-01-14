@@ -24,8 +24,8 @@ Inessive | *o/jo* | *a cico*
 Elative | *et/te* | *a dancico*
 Translative | *el/de* | *a peloco*
 Exessive | *ul/du* | *a danoco*
-Allative | *ak/ka* | *ag ikjozakoc*
-Ablative | *af/fa* | *ag ikjozafoc*
+Allative | *ak/ka* | *ag igyozakoc*
+Ablative | *af/fa* | *ag igyozafoc*
 
 As you can see, there are two forms of each case. This is because (as I have mentioned before) different forms are used based solely on whether or not a noun ends with a vowel or a consonant.
 
@@ -42,7 +42,6 @@ Here is a table for vocabulary with which I will explain the cases:
 *To (not) speak* | *Akje(da)*
 *To (not) move/go* | *Igyos(a)*
 *To (not) give/put something somewhere* | *Feltha(da)*
-*To (not) be* | *O(da)*
 *To (not) drink* | *Mhanes(a)*
 
 ### Pronouns:
@@ -65,15 +64,20 @@ Here is a table for vocabulary with which I will explain the cases:
 
 **Noun in English** | **Noun in Salvanian**
 --------------------|----------------------
-*Kindness* | *Hoi*
+*Person* | *Ek*
+*Kindness/Hello* | *Hoi*
 *Goodness* | *Kia*
-*Day* | *Cyec*
+*Day/Bye* | *Cyec*
 *Fragment* | *Yoti*
 *Tea* | *Api*
 *Language* | *Viu*
 *The Salvanian Language* | *A viu saloc*
+*Setyt* | *Normalness*
+
 
 A/Ag = Definite article. No other articles exist in Salvanian.
+
+Ky = Placed between objects in a list or between adjectives that don't describe anything but the original noun. *Eten kiaco ky hoico.* (*He is good and kind*)
 
 
 ### The Nominative case:
