@@ -80,7 +80,7 @@ A/Ag = Definite article. No other articles exist in Salvanian.
 Ky = Placed between objects in a list or between adjectives that don't describe anything but the original noun. *Eten kiaco ky hoico.* (*He is good and kind*)
 
 
-### The Nominative case:
+### The Nominative Case:
 
 The Nominative case makes the word it changes the subject of the sentence. This along with the **accusative** case means sentence structure is fluid. The main rule is that words that describe an object or action come after it in a phrase.
 
@@ -91,7 +91,7 @@ If a word ends in a consonant, "*an*" is added.
 Examples will be given after the explanation of the Accusative case in Salvanian.
 
 
-### The Accusative case:
+### The Accusative Case:
 
 The Accusative case makes the word it changes the direct object of the sentence. This means it is the noun that the action is done to. EG: "The man ate the cake." The cake is the direct object and would be marked.
 
@@ -99,7 +99,7 @@ If a word ends in a vowel, "*ti*" is added.
 
 If a word ends in a consonant, "*i*" is added.
 
-#### ***Nominative and Accusative examples:***
+#### ***Nominative and Accusative Examples:***
 
 *Kin mhanes apit. = I drink tea.*
 
@@ -110,7 +110,7 @@ If a word ends in a consonant, "*i*" is added.
 etc...
 
 
-### The Dative case:
+### The Dative Case:
 
 The Dative case in Salvanian shows recipients of objects.
 
@@ -118,14 +118,14 @@ If a word ends in a vowel, "*gyo*" is added.
 
 If a word ends in a consonant, "*og*" is added.
 
-#### ***Dative examples:***
+#### ***Dative Examples:***
 
 *Ben feltha kigyo a apit.* = *You give the tea to me.*
 
 *Etin feltha etegyo sedeti.* *She gives them to him.*
 
 
-### The Instructive case:
+### The Instructive Case:
 
 The Instructive case makes the word is changes the noun into what is being used to perform an action.
 
@@ -139,7 +139,7 @@ If a word ends in a vowel, "*to*" is added.
 
 If a word ends in a consonant, "*ot*" is added.
 
-#### ***Instructive examples:***
+#### ***Instructive Examples:***
 
 *Ko = question prefix added to the beginning of sentences making them into yes or no questions.*
 
@@ -148,18 +148,54 @@ If a word ends in a consonant, "*ot*" is added.
 *Ko ben igyosiv gyadeto? = Will you go by car?*
 
 
-### The Genitive case:
+### The Genitive Case:
 
-The Genitive case in Salvanian describe something as *belonging to x*. It can also turn nouns into adjectives like the colour yellow to yellow.
+The Genitive case in Salvanian describes something as *belonging to x*.
 
 If a word ends in a vowel, "*co*" is added.
 
 If a word ends in a consonant, "*oc*" is added.
 
-#### ***Genitive examples:***
+#### ***Genitive Examples:***
 
 *Sen dakico. = It isn't mine*
 
-*Ag apin kiaco. = The tea is good.*
+*Ag apin kiaco. = The tea is in **the** group of good things.*
 
+### The Essive Case:
 
+The Essive case in Salvanian modifies a noun to mean *as x* or *in the state of being x*.
+
+If a word ends in a vowel, "*c*" is added.
+
+If a word ends in a consonant, "*ec*" is added.
+
+#### ***Essive Examples:***
+
+*Se apic. = It is in the state of being tea. It is as tea.*
+
+### The Abessive Case:
+
+The Abessive case in Salvanian modifies a noun to mean *without x* or *In the absence of x*.
+
+If a word ends in a vowel, "*da*" is added.
+
+If a word ends in a consonant, "*a*" is added.
+
+#### ***Abessive Examples:***
+
+*Kin apida = I am in the absence of tea* or *I don't have tea.*
+*Ben setyta = You are in the absence of normality* or *You are strange.*
+
+### The Comitative Case:
+
+The Comitative case in Salvanian modifies a noun to mean *with x*.
+
+If a word ends in a vowel, "*su*" is added.
+
+If a word ends in a consonant, "*u*" is added.
+
+#### ***Comitative Examples:***
+
+*Ko ben apisu? Ia. = Do you have tea? Yes.*
+*Eta gyadesu. = She has a car.*
