@@ -160,7 +160,7 @@ If a word ends in a consonant, "*oc*" is added.
 
 *Sen dakico. = It isn't mine*
 
-*Ag apin kiaco. = The tea is in **the** group of good things.*
+*Ag apin kiaco. = The tea is in the group of good things.*
 
 ### The Essive Case:
 
