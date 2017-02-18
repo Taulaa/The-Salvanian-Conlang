@@ -68,7 +68,7 @@ Here is a table for vocabulary with which I will explain the cases:
 *Kindness/Hello* | *Hoi*
 *Goodness* | *Kia*
 *Day/Bye* | *Cyec*
-*Fragment* | *Yoti*
+*Fragment* | *Ioti*
 *Tea* | *Api*
 *Language* | *Viu*
 *The Salvanian Language* | *A viu saloc*
