@@ -122,7 +122,7 @@ If a word ends in a consonant, "*og*" is added.
 
 *Ben feltha kigyo a apit.* = *You give the tea to me.*
 
-*Etin feltha etegyo sedeti.* *She gives them to him.*
+*Etin feltha etegyo sedeti.* = *She gives them to him.*
 
 
 ### The Instructive Case:
