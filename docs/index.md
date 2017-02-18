@@ -198,4 +198,5 @@ If a word ends in a consonant, "*u*" is added.
 #### ***Comitative Examples:***
 
 *Ko ben apisu? Ia. = Do you have tea? Yes.*
+
 *Eta gyadesu. = She has a car.*
