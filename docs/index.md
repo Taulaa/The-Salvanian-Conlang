@@ -53,11 +53,11 @@ Here is a table for vocabulary with which I will explain the cases:
 *Be* | *You(s)*
 *Bede* | *You(pl)*
 *Ete* | *He*
-*Etede* | *They(m)*
+*En* | *They(m)*
 *Eta* | *It or unknown gender*
-*Etade* | *They(unknown gender)*
+*Ede* | *They(unknown gender)*
 *Eti* | *She*
-*Etide* | *They(f)*
+*Es* | *They(f)*
 *Se* | *That one (added to a noun to make it specific to mean "one previously mentioned")*
 
 ### Nouns:
