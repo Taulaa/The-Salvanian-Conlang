@@ -67,7 +67,7 @@ Here is a table for vocabulary with which I will explain the cases:
 *Person* | *Ek*
 *Kindness/Hello* | *Hoi*
 *Goodness* | *Kia*
-*Day/Bye* | *Cyec*
+*Day/Bye* | *Ciec*
 *Fragment* | *Ioti*
 *Tea* | *Api*
 *Language* | *Viu*
@@ -100,6 +100,8 @@ If a word ends in a vowel, "*ti*" is added.
 If a word ends in a consonant, "*i*" is added.
 
 #### ***Nominative and Accusative Examples:***
+
+*Veyri = to love*
 
 *Kin mhanes apit. = I drink tea.*
 
@@ -200,3 +202,94 @@ If a word ends in a consonant, "*u*" is added.
 *Ko ben apisu? Ia. = Do you have tea? Yes.*
 
 *Eta gyadesu. = She has a car.*
+
+### The Partitive Case:
+
+The Partitive case in Salvanian modifies a noun and makes it the direct object of an uncomplete action, or one without result. It can also be used to mean the noun is part of a whole.
+
+If a word ends in a vowel, "*ju*" is added.
+
+If a word ends in a consonant, "*uj*" is added.
+
+#### ***Partitive Examples:***
+
+*Iotiju setytoc. = A fragment of normality.*
+
+*Beden mhanes apiju. = You are drinking tea.*
+
+*Kin mhanesiv apiju. = You will have drunk tea.*
+
+### The Vocative Case:
+
+The vocative case in Salvanian modifies a noun to show it is being adressed.
+
+If a word ends in a vowel, "*ne*" is added.
+
+If a word ends in a consonant, "*en*" is added.
+
+#### ***Vocative Examples:***
+
+*Ii before a verb makes it a command.*
+
+*Viktoren, ii mhanes! = Viktor, drink!*
+
+*Bene, ia bene, ii igyos. = You, yes you, go.*
+
+### The Adessive Case:
+
+The Adessive case in Salvanian modifies a noun to mean *on the outside of x*.
+
+If a word ends in a vowel, "*ce*" is added.
+
+If a word ends in a consonant, "*e*" is added.
+
+#### ***Adessive Examples:***
+
+*Fuake = Home*
+
+*Kin fuakec beco. = I am on your house.*
+
+### The Illative Case:
+
+The Illative case in Salvanian modifies a noun to mean *into x*.
+
+If a word ends in a vowel, "*ta*" is added.
+
+If a word ends in a consonant, "*at*" is added.
+
+#### ***Illative Examples:***
+
+*He = here, hei = there*
+
+*Ko bin igyosiv gyadeta?. Will you enter the car?*
+
+*Bene, ii feltha a apiju heta. You, put some of the tea into here.*
+
+
+### The Inessive Case:
+
+The Inessive case in Salvanian modifies a noun to mean *in x*.
+
+If a word ends in a vowel, "*jo*" is added.
+
+If a word ends in a consonant, "*o*" is added.
+
+#### ***Inessive Examples:***
+
+*es = sky*
+
+*Ko ben fuakejo? = Are you home?*
+
+*Ena eso. = They are in the sky.*
+
+
+### Numbers:
+
+**English** | **Salvanian**
+*One* | *Eig*
+*Two* | *Aj*
+*Three* | *Odi*
+*Four* | *Ap*
+*Five* | *Un*
+*Six* | *Eis*
+*Seven* | *I*
