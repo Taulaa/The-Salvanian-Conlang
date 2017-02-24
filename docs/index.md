@@ -92,7 +92,6 @@ If a word ends in a consonant, "*an*" is added.
 
 Examples will be given after the explanation of the Accusative case in Salvanian.
 
-
 ### The Accusative Case:
 
 The Accusative case makes the word it changes the direct object of the sentence. This means it is the noun that the action is done to. EG: "The man ate the cake." The cake is the direct object and would be marked.
@@ -113,6 +112,17 @@ If a word ends in a consonant, "*i*" is added.
 
 etc...
 
+### The Absolutive case:
+
+The Absolutive case in Salvanian shows subjects of intransitive verbs.
+
+If a word ends in a vowel, "*dy*" is added.
+
+If a word ends in a consonant, "*y*" is added.
+
+#### ***Absolutive Examples:***
+
+*Ko bedy mhanes.* = *Do you drink.*
 
 ### The Dative Case:
 
