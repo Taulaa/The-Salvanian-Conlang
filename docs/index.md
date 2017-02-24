@@ -10,6 +10,7 @@ Salvanian has eighteen regular cases that not only have regular endings (with on
 ---------|------------|----------------------
 Nominative | *an/n* | *a pecico*
 Accusative | *i/ti* | *a gyitasoc*
+Intransitive | *y/dy* | *a sypecico*
 Dative | *og/gyo* | *a dagyoco*
 Instructive | *ot/to* | *ag haitoco*
 Genitive | *oc/co* | *a gyaco*
@@ -72,13 +73,14 @@ Here is a table for vocabulary with which I will explain the cases:
 *Tea* | *Api*
 *Language* | *Viu*
 *The Salvanian Language* | *A viu saloc*
-*Setyt* | *Normalness*
+*Normality* | *Setyt*
 
 
 A/Ag = Definite article. No other articles exist in Salvanian.
 
 Ky = Placed between objects in a list or between adjectives that don't describe anything but the original noun. *Eten kiaco ky hoico.* (*He is good and kind*)
 
+Hait = And, in two simultaneously true statements, both including a verb. For example *Eten kiaco hait kin hoico*. (*He is good and I am kind.*) 
 
 ### The Nominative Case:
 
