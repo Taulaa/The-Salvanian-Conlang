@@ -2,7 +2,7 @@
 
 ## **Cases**
 
-Salvanian has eighteen regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are as follows:
+Salvanian has nineteen regular cases that not only have regular endings (with only two forms based on whether or not the word ends with a consonant or with a vowel) but also regular usages. They are as follows:
 
 
 
@@ -122,7 +122,9 @@ If a word ends in a consonant, "*y*" is added.
 
 #### ***Absolutive Examples:***
 
-*Ko bedy mhanes.* = *Do you drink.*
+*Ko bedy mhanes.* = *Do you drink?*
+
+*Etidy feltha aegoc.* = *She gives a lot.*
 
 ### The Dative Case:
 
@@ -159,12 +161,12 @@ If a word ends in a consonant, "*ot*" is added.
 
 *Vi/iv = future suffix for verbs.*
 
-*Ko ben igyosiv gyadeto? = Will you go by car?*
+*Ko ben igyosiv seka gyadeto? = Will you go by car?*
 
 
 ### The Genitive Case:
 
-The Genitive case in Salvanian describes something as *belonging to x*.
+The Genitive case in Salvanian describes something as *belonging to x* or *belonging to a group that are like x or are alike in essence to x*.
 
 If a word ends in a vowel, "*co*" is added.
 
@@ -305,3 +307,9 @@ If a word ends in a consonant, "*o*" is added.
 *Five* | *Un*
 *Six* | *Eis*
 *Seven* | *I*
+*Eight* | *Nas*
+*Nine* | *Fyr*
+*Ten* | *Siy*
+
+*31 = odisiy hait eig.*
+*64 = eissiy hait ap.*
