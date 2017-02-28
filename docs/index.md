@@ -215,7 +215,7 @@ If a word ends in a consonant, "*u*" is added.
 
 *Ko ben apisu? Ia. = Do you have tea? Yes.*
 
-*Eta gyadesu. = She has a car.*
+*Etan gyadesu. = She has a car.*
 
 ### The Partitive Case:
 
