@@ -300,6 +300,7 @@ If a word ends in a consonant, "*o*" is added.
 ### Numbers:
 
 **English** | **Salvanian**
+-----------|----------
 *One* | *Eig*
 *Two* | *Aj*
 *Three* | *Odi*
