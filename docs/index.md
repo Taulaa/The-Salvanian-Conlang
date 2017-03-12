@@ -261,7 +261,7 @@ If a word ends in a consonant, "*e*" is added.
 
 *Fuake = Home*
 
-*Kin fuakec beco. = I am on your house.*
+*Kin fuakece beco. = I am on your house.*
 
 ### The Illative Case:
 
