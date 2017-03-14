@@ -76,7 +76,7 @@ Here is a table for vocabulary with which I will explain the cases:
 *Normality* | *Setyt*
 
 
-A/Ag = Definite article. No other articles exist in Salvanian.
+A/As = Definite article. No other articles exist in Salvanian.
 
 Ky = Placed between objects in a list or between adjectives that don't describe anything but the original noun. *Eten kiaco ky hoico.* (*He is good and kind*)
 
